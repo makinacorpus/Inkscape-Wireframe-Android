@@ -2,6 +2,8 @@ An attempt to provide a basic wireframe toolkit for Android.
 
 It is meant to be used with Inkscape (SVG format).
 
+![preview](preview.png)
+
 Credits
 -------
 
